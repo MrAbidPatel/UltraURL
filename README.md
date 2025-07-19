@@ -70,13 +70,13 @@ Ultra URL uses:
 ## 🪪 License
 
 This project is licensed under the [MIT License](LICENSE).  
-You’re free to use, modify, and share it — just give proper credit.
+You’re free to use, modify, and share it. Just make sure to give proper credit.
 
 ---
 
 ## 🤝 Contributing
 
-Got ideas? Pull requests are welcome — or fork and remix to make it your own.
+Got ideas? Pull requests are welcome, or fork and remix to make it your own.
 
 ---
 
