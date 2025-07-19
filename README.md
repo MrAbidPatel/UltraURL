@@ -43,7 +43,9 @@ There are 2 versions of the shortcut. The "Main" version simply creates a shorte
 You can download the current versions here
 
 1.0
+
 Main: https://www.icloud.com/shortcuts/e85d8ead017840b8967d80fe67b5d1fd
+
 Custom: https://www.icloud.com/shortcuts/9239910c045641c2b6e9c4f670eb291f
 
 ---
