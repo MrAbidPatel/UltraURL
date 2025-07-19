@@ -40,13 +40,11 @@ Apple announces iOS 26 with Liquid Glass redesign
 
 There are 2 versions of the shortcut. The "Main" version simply creates a shortened URL using is.gd. The "Custom" version asks the user to optionally enter a "Custom Slug" for the shortened URL.
 
-You can download the current versions here
+You can download the current version of Ultra URL here:
 
-1.0
-
-Main: https://www.icloud.com/shortcuts/e85d8ead017840b8967d80fe67b5d1fd
-
-Custom: https://www.icloud.com/shortcuts/9239910c045641c2b6e9c4f670eb291f
+## Version 1.0
+- **Main:** https://www.icloud.com/shortcuts/e85d8ead017840b8967d80fe67b5d1fd
+- **Custom:** https://www.icloud.com/shortcuts/9239910c045641c2b6e9c4f670eb291f
 
 ---
 
